@@ -54,7 +54,7 @@ The following tools were used in this project:
 
 - [WepPack](https://webpack.js.org/guides/installation)
 - [Node.js](https://nodejs.org/en/)
-- [javaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)ß
+- [javaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 ## :white_check_mark: Requirements ##
 
