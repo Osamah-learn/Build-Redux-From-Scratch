@@ -1,3 +1,3 @@
-import {osku} from "./Osku"
+import store from './customStore';
 
-console.log(osku)
+console.log(store.getState())
