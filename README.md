@@ -73,7 +73,7 @@ $ cd reduxfromscratch
 $ npm i
 
 # Run the project
-$ npm start
+$ npm run dev
 # The server will initialize in the <http://localhost:9000>
 ```
 
