@@ -1,1 +1,3 @@
-console.log("Hello World")
+import {osku} from "./Osku"
+
+console.log(osku)
