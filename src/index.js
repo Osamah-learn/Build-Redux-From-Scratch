@@ -5,4 +5,8 @@ store.dispatch({
     type: BUG_ADDED,
     payload: {description:"Test Baby Test"}
 })
-console.log("State is here",store.getState())
+console.log("Store changed",store.getState())
+
+store.subscribe(() => {
+console.log("Subscribed")
+})
